@@ -1,6 +1,9 @@
+@import url(“styles/header.css”);
+
 body {
     background-color: silver;
 }
-h1 {
-    background-color: black;
-}
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+    }
